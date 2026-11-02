@@ -1,0 +1,9 @@
+{
+  "currency": {"name": "航铢", "code": "HZ"},
+  "pay": {"base": 120, "perError": 20, "missedThreat": 40},
+  "colleagues": [
+    {"id": "021", "name": "艾拉", "reviewed": 6, "correct": 6},
+    {"id": "037", "name": "米洛", "reviewed": 6, "correct": 5},
+    {"id": "063", "name": "萨莎", "reviewed": 6, "correct": 4}
+  ]
+}
